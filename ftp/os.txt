@@ -1,0 +1,5 @@
+/usr/lib/python3.6/os.py
+/usr/lib/python3.5/os.py
+/usr/lib/python2.7/os.py
+/snap/core/7169/usr/lib/python3.5/os.py
+/snap/core/7270/usr/lib/python3.5/os.py
